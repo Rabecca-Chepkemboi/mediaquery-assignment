@@ -1,0 +1,469 @@
+.a{
+    display: flex;
+    gap: 10em;
+}
+body{
+    background-color: rgba(230, 230, 230, 0.979);
+    overflow-x: hidden;
+}
+.b{
+    display: flex;
+    gap: 2em;
+    font-weight: bold;
+    padding-left: 14%;
+}
+.second{
+    background-image: url(/image/bec.png);
+}
+.c{
+    display: flex;
+    gap: 2em;
+    padding-left: 15%;
+}
+.ma{
+    color: red;
+}
+.me{
+    color: red;
+}
+.d{
+    padding-left: 35%;
+    font-size: 400%;
+    font-weight: bold;
+}
+.sum{
+    padding-left: 35%;
+    font-size: large;
+}
+.add{
+    display: flex;
+}
+.lay{
+    width: 100%;
+    padding-left: 70%;
+    padding-top: 20%;
+}
+.bat{
+    margin-left: 14%;
+    padding: 16px 18px;
+    border-radius: 1em;
+    background-color: rgb(238, 71, 10);
+    color: white;
+    font-weight: bold;
+}
+.chair{
+    text-align: center;
+    font-size: 300%;
+    font-weight: bold;
+}
+.door{
+    width: 50%;
+    background-image: linear-gradient(aqua,purple);
+    border-radius: 1em;
+}
+.rain{
+    display: flex;
+    gap: 1em;
+}
+.may{
+    width: 40%;
+    background-image: linear-gradient(aqua, red);
+    border-radius: 1em;
+}
+.june{
+    width: 70%;
+    background-image: linear-gradient(rgb(85, 51, 51), red);
+    border-radius: 1em;
+}
+.boat{
+    display: flex;
+    background-color: white;
+    border-radius: 1em;
+}
+.ferry{
+    display: flex;
+    background-color: white;
+    border-radius: 1em;
+}
+.ship{
+    display: flex;
+    background-color: white;
+    border-radius: 1em;
+}
+.chat{
+    text-align: center;
+    font-size: 300%;
+    font-weight: bold;
+}
+.run{
+    padding-left: 8.5%;
+    display: flex;
+    gap: 1em;
+    font-size: 200%;
+    font-weight: bold;
+}
+.man{
+    color: red;
+}
+.jan{
+    width: 70%;
+    
+}
+.feb{
+    width: 50%;
+    
+}
+
+.mar{
+    width: 70%;
+    
+}
+.apri{
+    width: 70%;
+    
+}
+.human{
+    display: flex;
+    gap: 2em;
+    padding-left: 6%;
+}
+.red{
+    width: 70%;
+    
+}
+.green{
+    width: 70%;
+    
+}
+.blue{
+    width: 70%;
+    
+}
+.black{
+    width: 70%;
+    
+}
+.house{
+    display: flex;
+    gap: 2em;
+    padding-left: 6%;
+}
+.lap{
+    margin-left: 50%;
+    padding: 18px 25px;
+    color: red;
+    font-weight: bold;
+    border: 2px solid red;
+    border-radius: 1em;
+}
+.char{
+    text-align: center;
+    font-size: 300%;
+    font-weight: bold;
+}
+.book{
+    display: flex;
+}
+.paper{
+    width: 80%;
+}
+.cover{
+    width: 70%;
+    padding-left: 10%;
+}
+.water{
+    display: flex;
+}
+.ocean{
+    display: flex;
+    gap: 2em;
+    padding-left: 6%;
+}
+.mat{
+    display: flex;
+    gap: 20em;
+}
+.beach{
+    padding-left: 90%;
+    padding: 50px 60px;
+    background-color: antiquewhite;
+    border-radius: 1em;
+}
+.bus{
+    padding-left: 6%;
+}
+.valley{
+    display: flex;
+    padding-left: 9%;
+    gap: 4em;
+    background-color: rgb(241, 87, 87);
+    color: white;
+
+}
+li{
+    list-style: none;
+    line-height: 40px;
+}
+
+.mara{
+    color: black;
+    font-weight: bold;
+    font-size: 200%;
+    padding-right: 20%;
+}
+.but{
+    padding: 9px 18px;
+    background-color: rgb(233, 92, 92);
+    font-weight: bold;
+    color: white;
+}
+.bool{
+    color: black;
+    font-weight: bold;
+    font-size: 200%;
+}
+.boot{
+    padding: 9px 18px;
+    background-color: rgb(233, 92, 92);
+    font-weight: bold;
+    color: white;
+}
+.earth{
+    color: black;
+    font-weight: bold;
+    font-size: 200%;
+}
+.venus{
+    padding: 9px 18px;
+    background-color: rgb(233, 92, 92);
+    font-weight: bold;
+    color: white;
+}
+.low{
+    color: red;
+    font-weight: bold;
+    font-size: 150%;
+}
+.up{
+    font-weight: bold;
+    font-size: 220%;
+}
+.win{
+    padding: 90px 100px;
+    background-color: pink;
+    color: black;
+    border-radius: 1em;
+}
+.won{
+    text-align: center;
+    font-weight: bold;
+    font-size: 200%;
+}
+.loss{
+    text-align: center;
+}
+.buy{
+    padding: 12px 13px;
+    border-radius: 1em;
+}
+.bol{
+    padding: 12px 13px;
+    border-radius: 1em;
+    background-color: rgb(173, 54, 54);
+    color: white;
+}
+.i{
+    font-size: 150%;
+    color: red;
+    font-weight: bold;
+}
+.j{
+    color: red;
+}
+.k{
+    font-size: 150%;
+    color: red;
+    font-weight: bold;
+}
+.mul{
+    color: red;
+}
+.much{
+    padding-right: 10%;
+}
+.more{
+    text-align: center;
+    font-size: small;
+}
+.much{
+    text-align: center;
+    font-size: small;
+}
+.ball{
+    
+    background-color: rgb(235, 128, 128);
+    color: white;
+    font-size: small;
+    border-radius: 1em;
+    font-size: small;
+}
+.bail{
+    display: flex;
+    gap: 1em;
+}
+.burn{
+    display: flex;
+    gap: 1em;
+}
+.where{
+    
+    border-radius: 1em;
+    color: red;
+    border: 2px solid red;
+    font-size: small;
+}
+.how{
+    border-radius: 1em;
+    color: red;
+    border: 2px solid red;
+    font-size: small;
+    
+}
+.why{
+    background-color: rgb(235, 128, 128);
+    color: white;
+    font-size: small;
+    border-radius: 1em;
+    font-size: small;
+    
+}
+.first{
+    padding: 16px 13px;
+    border-radius: 2em;
+    background-color: rgb(216, 15, 15);
+    color: white;
+}
+.fifth{
+    padding-top: 2%;
+}
+.phone{
+    font-weight: bold;
+}
+.play{
+    padding: 22px 12px;
+    background-color: white;
+    border-radius: 1em;
+}
+.stop{
+    padding: 22px 12px;
+    background-color: white;
+    border-radius: 1em;
+}
+.continue{
+    padding: 22px 12px;
+    background-color: white;
+    border-radius: 1em;
+}
+.resume{
+    padding: 22px 12px;
+    background-color: white;
+    border-radius: 1em;
+}
+.maroon{
+    padding: 22px 12px;
+    background-color: white;
+    border-radius: 1em;
+}
+.grey{
+    padding: 22px 12px;
+    background-color: white;
+    border-radius: 1em;
+}
+.pink{
+    padding: 22px 12px;
+    background-color: white;
+    border-radius: 1em;
+}
+.pich{
+    padding: 22px 12px;
+    background-color: white;
+    border-radius: 1em;
+}
+.file{
+    font-weight: bold;
+    font-size: 130%;
+}
+.edit{
+    font-weight: bold;
+    font-size: 130%;
+}
+.go{
+    background-color: black;
+    color: white;
+    border-radius: 1em;
+}
+.help{
+    display: flex;
+    gap: 1em;
+    padding-left: 13%;
+}
+.view{
+    width: 250%;
+    padding-left: 25%;
+}
+.element{
+    display: flex;
+    gap: 5em;
+}
+.explorer{
+    padding-left: 30%;
+    
+}
+.code{
+    color: red;
+    font-size: small;
+    font-weight: bold;
+}
+.outline{
+    font-size: 200%;
+    font-weight: bold;
+}
+.light{
+    font-weight: bold;
+}
+.dark{
+    background-color: red;
+    color: white;
+    padding: 10px 6px;
+}
+.darker{
+    color: red;
+    border: solid 1px red;
+    padding: 10px 6px;
+}
+.hair{
+    width: 9%;
+}
+.air{
+    width: 11%;
+}
+.space{
+    width: 10%;
+}
+.crat{
+    font-size: 200%;
+    font-weight: bold;
+}
+.activy{
+    padding: 2px 15px;
+    background-color: red;
+    border-radius: 1em;
+}
+.vities{
+    color: rgb(124, 120, 120);
+    font-weight: bold;
+}
+.ten{
+    width: 25%;
+    border-radius: 45em;
+}
