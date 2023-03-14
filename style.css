@@ -1,6 +1,6 @@
 .a{
     display: flex;
-    gap: 10em;
+    gap: 2em;
 }
 body{
     background-color: rgba(230, 230, 230, 0.979);
@@ -57,7 +57,7 @@ body{
     font-weight: bold;
 }
 .door{
-    width: 50%;
+    width: 40%;
     background-image: linear-gradient(aqua,purple);
     border-radius: 1em;
 }
@@ -466,4 +466,59 @@ li{
 .ten{
     width: 25%;
     border-radius: 45em;
+}
+.jay{
+    font-size: small;
+}
+
+
+@media screen and (max-width: 700px) and (min-width:600px){
+.b{
+    /* display: flex;
+    gap: 1em;
+    font-weight: bold;
+    padding-left: 4%; */
+    font-size: small;
+}
+.c{
+    /* display: flex;
+    gap: 1em;
+    padding-left: 5%; */
+    font-size: small;
+}
+.d{
+    padding-left: 15%;
+    font-size: 200%;
+    font-weight: bold;
+}
+.sum{
+    padding-left: 15%;
+    font-size: small;
+}
+.lay{
+    width: 10%;
+    /* padding-right:1%; */
+    padding-top: 10%;
+}
+.chair{
+    font-size: 300%;
+    font-weight: bold;
+}
+.bat{
+    font-size: large;
+    margin-left: 4%;
+    padding: 6px 8px;
+    border-radius: 1em;
+    background-color: rgb(238, 71, 10);
+    color: white;
+    font-weight: bold;
+}
+.first{
+    padding: 6px 3px;
+    border-radius: 1em;
+    background-color: rgb(216, 15, 15);
+    color: white;
+}
+   
+   
 }
