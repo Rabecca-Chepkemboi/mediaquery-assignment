@@ -1,0 +1,288 @@
+@media(max-width:1957px){
+    .a{
+        display: flex;
+        gap: 1em;
+    }
+    /* .b{
+        display: flex;
+        gap: 1em;
+        padding-left: 3%;
+        font-size: small;
+    } */
+    /* .c{
+        display: flex;
+        gap: 1em;
+        padding-left: 5%;
+        font-size: small;
+    } */
+    /* .d{
+        padding-left: 10%;
+        font-size: 200%;
+        font-weight: bold;
+    } */
+    /* .sum{
+        padding-left: 10%;
+        font-size: small;
+    } */
+    .second{
+        background-image: url(/image/bec.png);
+    }
+    /* .bat{
+        margin-left: 7%;
+        padding: 6px 8px;
+        border-radius: 1em;
+        background-color: rgb(238, 71, 10);
+        color: white;
+        font-weight: bold;
+    }
+    .first{
+        padding: 6px 3px;
+        border-radius: 2em;
+        background-color: rgb(216, 15, 15);
+        color: white;
+    } */
+    /* .chair{
+        text-align: center;
+        font-size: 150%;
+        font-weight: bold;
+    } */
+    /* .door{
+        width: 35%;
+        background-image: linear-gradient(aqua,purple);
+        border-radius: 1em;
+    }
+    .may{
+        width: 30%;
+        background-image: linear-gradient(aqua, red);
+        border-radius: 1em;
+    }
+    .june{
+        width: 40%;
+        background-image: linear-gradient(rgb(85, 51, 51), red);
+        border-radius: 1em;
+    } */
+    .but{
+        padding: 5px 9px;
+        background-color: rgb(233, 92, 92);
+        font-weight: bold;
+        color: white;
+    }
+    .bool{
+        color: black;
+        font-weight: bold;
+        font-size: 100%;
+    }
+    .chat{
+        text-align: center;
+        font-size: 150%;
+        font-weight: bold;
+    }
+    .run{
+        padding-left: 4%;
+        display: flex;
+        gap: 1em;
+        font-size: 100%;
+        font-weight: bold;
+    }
+    /* .jan{
+        width: 35%;
+        
+    }
+    .feb{
+        width: 25%;
+        
+    } */
+    .file{
+        font-weight: bold;
+        font-size: 115%;
+    }
+    /* .paper{
+        width: 190%;
+    }
+    .cover{
+        width: 120%;
+    } */
+    /* .red{
+        width: 30%;
+    } */
+    /* .lap{
+        margin-left: 35%;
+        padding: 8px 15px;
+        color: red;
+        font-weight: bold;
+        border: 2px solid red;
+        border-radius: 1em;
+    } */
+    .char{
+        text-align: center;
+        font-size: 150%;
+        font-weight: bold;
+    }
+    .how{
+        border-radius: 1em;
+        color: red;
+        border: 2px solid red;
+        font-size: xx-small;
+        
+    }
+    .why{
+        background-color: rgb(235, 128, 128);
+        color: white;
+        font-size: small;
+        border-radius: 1em;
+        font-size: xx-small;
+        
+    }
+    /* .more{
+        text-align: center;
+        font-size: x-small;
+        padding-left: 30%;
+    }
+    .more3{
+        text-align: center;
+        font-size: x-small;
+        padding-left: 20%;
+    } */
+    .low{
+        color: red;
+        font-weight: bold;
+        font-size: 120%;
+    }
+    .up{
+        font-weight: bold;
+        font-size: 150%;
+    }
+    /* .lay{
+        padding-left: 0.01%;
+    } */
+    /* .beach{
+        font-size: small;
+        padding: 2px 0px;
+        margin-right: 90%;
+        background-color: antiquewhite;
+        border-radius: 1em;
+    } */
+    /* .won{
+        text-align: center;
+        font-weight: bold;
+        font-size: 100%;
+    } */
+    /* .valley{
+        display: flex;
+        padding-left: 0.1%;
+        gap: 0.2em;
+        background-color: rgb(241, 87, 87);
+        color: white;
+        font-size: x-small;
+    } */
+    /* li{
+        list-style: none;
+        line-height: 20px;
+    } */
+    .go{
+        background-color: black;
+        color: white;
+        border-radius: 1em;
+        font-size: xx-small;
+    }
+    .outline{
+        font-size: 110%;
+        font-weight: bold;
+    }
+    .crat{
+        font-size: 100%;
+        font-weight: bold;
+    }
+    .dark{
+        background-color: red;
+        color: white;
+        padding: 5px 3px;
+        font-size: xx-small;
+    }
+    .darker{
+        color: red;
+        border: solid 1px red;
+        padding: 5px 3px;
+        font-size: xx-small;
+    }
+    .vities{
+        color: rgb(124, 120, 120);
+        font-weight: bold;
+        font-size: medium;
+    }
+    .explorer{
+        padding-right: 30%;
+        line-height: 90%;
+        font-size: small;
+    }
+    .code{
+        color: red;
+        font-weight: bold;
+        font-size: x-small;
+    }
+    .activy{
+        padding: 2px 7px;
+        background-color: red;
+        border-radius: 1em;
+    }
+    .nature{
+        font-size: 2em;
+        font-weight: bold;
+        text-align: center;
+    }
+    .variety{
+        font-size: 2em;
+        font-weight: bold;
+    }
+    .toy{
+        font-size: x-small;
+        padding-left: 7%;
+    }
+    .travel{
+        padding: 6px 8px;
+        background-color: rgb(240, 92, 92);
+        color: white;
+        font-weight: bold;
+        border-radius: 1em;
+    }
+    .comp{
+        width: 35%;
+        padding-left: 5%;
+        border-radius: 1em;
+    }
+    .mine2{
+        font-size: 2em;
+        font-weight: bold;
+    }
+    .lil{
+        padding: 6px 20px;
+        border-radius: 1em;
+        font-size: 1em;
+        font-weight: bold;
+        font-size: small;
+    }
+    /* .buy{
+        padding: 5px 6px;
+        border-radius: 1em;
+    }
+    .bol{
+        padding: 5px 6px;
+        border-radius: 1em;
+        background-color: rgb(173, 54, 54);
+        color: white;
+    } */
+    .view{
+        width: 350%;
+        padding-left: 15%;
+    }
+    .help{
+        display: flex;
+        gap: 1em;
+        padding-left: 3%;
+        font-size: small;
+    }
+    .rain{
+        display: flex;
+        gap: 1em;
+    }
+}

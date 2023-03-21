@@ -57,13 +57,13 @@ body{
     font-weight: bold;
 }
 .door{
-    width: 40%;
+    width: 50%;
     background-image: linear-gradient(aqua,purple);
     border-radius: 1em;
 }
 .rain{
     display: flex;
-    gap: 1em;
+    gap: 1.5em;
 }
 .may{
     width: 40%;
@@ -71,7 +71,7 @@ body{
     border-radius: 1em;
 }
 .june{
-    width: 70%;
+    width: 50%;
     background-image: linear-gradient(rgb(85, 51, 51), red);
     border-radius: 1em;
 }
@@ -114,14 +114,6 @@ body{
     
 }
 
-.mar{
-    width: 70%;
-    
-}
-.apri{
-    width: 70%;
-    
-}
 .human{
     display: flex;
     gap: 2em;
@@ -131,18 +123,7 @@ body{
     width: 70%;
     
 }
-.green{
-    width: 70%;
-    
-}
-.blue{
-    width: 70%;
-    
-}
-.black{
-    width: 70%;
-    
-}
+
 .house{
     display: flex;
     gap: 2em;
@@ -165,7 +146,7 @@ body{
     display: flex;
 }
 .paper{
-    width: 80%;
+    width: 95%;
 }
 .cover{
     width: 70%;
@@ -184,33 +165,29 @@ body{
     gap: 20em;
 }
 .beach{
-    padding-left: 90%;
+    padding-right: 20%;
     padding: 50px 60px;
     background-color: antiquewhite;
     border-radius: 1em;
 }
+/* .ten{
+
+} */
 .bus{
     padding-left: 6%;
 }
 .valley{
     display: flex;
-    padding-left: 9%;
-    gap: 4em;
+    padding-left: 3%;
+    gap: 3.5em;
     background-color: rgb(241, 87, 87);
     color: white;
-
 }
 li{
     list-style: none;
     line-height: 40px;
 }
 
-.mara{
-    color: black;
-    font-weight: bold;
-    font-size: 200%;
-    padding-right: 20%;
-}
 .but{
     padding: 9px 18px;
     background-color: rgb(233, 92, 92);
@@ -222,23 +199,8 @@ li{
     font-weight: bold;
     font-size: 200%;
 }
-.boot{
-    padding: 9px 18px;
-    background-color: rgb(233, 92, 92);
-    font-weight: bold;
-    color: white;
-}
-.earth{
-    color: black;
-    font-weight: bold;
-    font-size: 200%;
-}
-.venus{
-    padding: 9px 18px;
-    background-color: rgb(233, 92, 92);
-    font-weight: bold;
-    color: white;
-}
+
+
 .low{
     color: red;
     font-weight: bold;
@@ -277,9 +239,7 @@ li{
     color: red;
     font-weight: bold;
 }
-.j{
-    color: red;
-}
+
 .k{
     font-size: 150%;
     color: red;
@@ -293,35 +253,14 @@ li{
 }
 .more{
     text-align: center;
-    font-size: small;
+    font-size: medium;
 }
-.much{
-    text-align: center;
-    font-size: small;
-}
-.ball{
-    
-    background-color: rgb(235, 128, 128);
-    color: white;
-    font-size: small;
-    border-radius: 1em;
-    font-size: small;
-}
+
 .bail{
     display: flex;
     gap: 1em;
 }
-.burn{
-    display: flex;
-    gap: 1em;
-}
-.where{
-    
-    border-radius: 1em;
-    color: red;
-    border: 2px solid red;
-    font-size: small;
-}
+
 .how{
     border-radius: 1em;
     color: red;
@@ -463,62 +402,74 @@ li{
     color: rgb(124, 120, 120);
     font-weight: bold;
 }
-.ten{
+en{
     width: 25%;
     border-radius: 45em;
 }
 .jay{
     font-size: small;
 }
-
-
-@media screen and (max-width: 700px) and (min-width:600px){
-.b{
-    /* display: flex;
-    gap: 1em;
-    font-weight: bold;
-    padding-left: 4%; */
-    font-size: small;
+.sheet{
+    display: flex;
 }
-.c{
-    /* display: flex;
-    gap: 1em;
-    padding-left: 5%; */
-    font-size: small;
-}
-.d{
-    padding-left: 15%;
-    font-size: 200%;
-    font-weight: bold;
-}
-.sum{
-    padding-left: 15%;
-    font-size: small;
-}
-.lay{
-    width: 10%;
-    /* padding-right:1%; */
-    padding-top: 10%;
-}
-.chair{
-    font-size: 300%;
-    font-weight: bold;
-}
-.bat{
-    font-size: large;
-    margin-left: 4%;
-    padding: 6px 8px;
+.comp{
+    width: 30%;
+    padding-left: 10%;
     border-radius: 1em;
-    background-color: rgb(238, 71, 10);
+}
+.nature{
+    font-size: 3em;
+    font-weight: bold;
+    text-align: center;
+}
+.variety{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.travel{
+    padding: 16px 48px;
+    background-color: rgb(240, 92, 92);
     color: white;
     font-weight: bold;
-}
-.first{
-    padding: 6px 3px;
     border-radius: 1em;
-    background-color: rgb(216, 15, 15);
-    color: white;
 }
-   
-   
+.byte{
+    width: 40%;
+    padding-left: 1%;
+    border-radius: 1em;
 }
+.toy{
+    font-size: x-large;
+    padding-left: 10%;
+}
+.mymy{
+    width: 35%;
+    border-radius: 1em;
+    padding-left: 10%;
+}
+y{
+    padding-right: 5%;
+    font-size: x-large;
+    padding-left: 4%;
+}
+.pich1{
+    text-align: center;
+}
+.mine2{
+    font-size: 2.5em;
+    font-weight: bold;
+}
+.lil{
+    padding: 16px 80px;
+    border-radius: 1em;
+    font-size: 1em;
+    font-weight: bold;
+}
+.lil1{
+    padding: 60px 80px;
+    border-radius: 1em;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+
