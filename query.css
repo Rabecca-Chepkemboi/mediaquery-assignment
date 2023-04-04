@@ -3,64 +3,11 @@
         display: flex;
         gap: 1em;
     }
-    /* .b{
-        display: flex;
-        gap: 1em;
-        padding-left: 3%;
-        font-size: small;
-    } */
-    /* .c{
-        display: flex;
-        gap: 1em;
-        padding-left: 5%;
-        font-size: small;
-    } */
-    /* .d{
-        padding-left: 10%;
-        font-size: 200%;
-        font-weight: bold;
-    } */
-    /* .sum{
-        padding-left: 10%;
-        font-size: small;
-    } */
+ 
     .second{
         background-image: url(/image/bec.png);
     }
-    /* .bat{
-        margin-left: 7%;
-        padding: 6px 8px;
-        border-radius: 1em;
-        background-color: rgb(238, 71, 10);
-        color: white;
-        font-weight: bold;
-    }
-    .first{
-        padding: 6px 3px;
-        border-radius: 2em;
-        background-color: rgb(216, 15, 15);
-        color: white;
-    } */
-    /* .chair{
-        text-align: center;
-        font-size: 150%;
-        font-weight: bold;
-    } */
-    /* .door{
-        width: 35%;
-        background-image: linear-gradient(aqua,purple);
-        border-radius: 1em;
-    }
-    .may{
-        width: 30%;
-        background-image: linear-gradient(aqua, red);
-        border-radius: 1em;
-    }
-    .june{
-        width: 40%;
-        background-image: linear-gradient(rgb(85, 51, 51), red);
-        border-radius: 1em;
-    } */
+ 
     .but{
         padding: 5px 9px;
         background-color: rgb(233, 92, 92);
@@ -96,23 +43,7 @@
         font-weight: bold;
         font-size: 115%;
     }
-    /* .paper{
-        width: 190%;
-    }
-    .cover{
-        width: 120%;
-    } */
-    /* .red{
-        width: 30%;
-    } */
-    /* .lap{
-        margin-left: 35%;
-        padding: 8px 15px;
-        color: red;
-        font-weight: bold;
-        border: 2px solid red;
-        border-radius: 1em;
-    } */
+  
     .char{
         text-align: center;
         font-size: 150%;
@@ -152,33 +83,7 @@
         font-weight: bold;
         font-size: 150%;
     }
-    /* .lay{
-        padding-left: 0.01%;
-    } */
-    /* .beach{
-        font-size: small;
-        padding: 2px 0px;
-        margin-right: 90%;
-        background-color: antiquewhite;
-        border-radius: 1em;
-    } */
-    /* .won{
-        text-align: center;
-        font-weight: bold;
-        font-size: 100%;
-    } */
-    /* .valley{
-        display: flex;
-        padding-left: 0.1%;
-        gap: 0.2em;
-        background-color: rgb(241, 87, 87);
-        color: white;
-        font-size: x-small;
-    } */
-    /* li{
-        list-style: none;
-        line-height: 20px;
-    } */
+   
     .go{
         background-color: black;
         color: white;
@@ -261,16 +166,7 @@
         font-weight: bold;
         font-size: small;
     }
-    /* .buy{
-        padding: 5px 6px;
-        border-radius: 1em;
-    }
-    .bol{
-        padding: 5px 6px;
-        border-radius: 1em;
-        background-color: rgb(173, 54, 54);
-        color: white;
-    } */
+  
     .view{
         width: 350%;
         padding-left: 15%;
@@ -284,5 +180,13 @@
     .rain{
         display: flex;
         gap: 1em;
+    }
+}
+
+@media(max-width:1957px){
+    .lay{
+        width: 100%;
+        padding-left: 30%;
+        padding-top: 20%;
     }
 }
